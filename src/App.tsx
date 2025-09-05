@@ -63,7 +63,7 @@ function App() {
           <div className="mb-12">
             <div className="relative w-full h-64 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-lg overflow-hidden shadow-lg">
               <img 
-                src="https://www.google.com/imgres?q=graphic%20era%20photos&imgurl=https%3A%2F%2Fqs-igauge.blr1.cdn.digitaloceanspaces.com%2FGraphic%2520Era%2520Hill_Campus%2520(1).jpg&imgrefurl=https%3A%2F%2Fwww.igauge.in%2Finstitution%2Funiversities%2Fgraphic-era-university&docid=LCRfMnFO5jHlaM&tbnid=VIzLOFWXigtBKM&vet=12ahUKEwiH6rXW_cCPAxUKXWwGHaZECzUQM3oECB8QAA..i&w=2048&h=1036&hcb=2&ved=2ahUKEwiH6rXW_cCPAxUKXWwGHaZECzUQM3oECB8QAA" 
+                src="https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg?auto=compress&cs=tinysrgb&w=1200" 
                 alt="University Campus" 
                 className="w-full h-full object-cover"
               />
